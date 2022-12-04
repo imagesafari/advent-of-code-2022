@@ -2,4 +2,4 @@
 
 https://adventofcode.com/2022
 
-stupid unix one-liners only
+stupid unix ~~one-liners only~~
